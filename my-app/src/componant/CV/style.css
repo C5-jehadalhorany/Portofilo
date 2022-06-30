@@ -2,6 +2,12 @@
     color:navy;
     font-size: xx-large;
     margin-top: 20px;
+    display: grid;
+    align-content: center;
+    justify-content: start;
+    align-items: baseline;
+    justify-items: start;
+
 }
 
 .cv_p span{
@@ -21,3 +27,8 @@
     width: 50vh;
 }
 
+.pro_p{
+    color: rgb(144, 144, 196);
+    font-size: x-large;
+
+}
