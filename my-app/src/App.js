@@ -3,6 +3,7 @@ import NavbaR from './componant/Navbar';
 import BasicExample from './componant/Project';
 // import { Routes, Route } from "react-router-dom";
 import Cv from './componant/CV';
+import GridExample from './componant/Mywork';
 import './App.css';
 
 
@@ -11,20 +12,21 @@ function App() {
     <div className="App">
 
       <NavbaR />
-
-      {/* <header className="App-header">
-        Portofilo
-      </header> */}
-      {/* <Routes className="main"> */}
-      {/* <Route path="/" element={} /> */}
-
-      {/* </Routes> */}
-      <BasicExample />
+     
       <div>
 
         <Cv />
       </div>
+      <br />
+      <GridExample/>
+
+      
+      <>
+      <br />
+      <BasicExample />
+      </>
     </div>
+
   );
 }
 
