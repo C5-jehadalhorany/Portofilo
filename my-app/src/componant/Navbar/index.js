@@ -12,7 +12,7 @@ import("./style.css")
             <Nav className="me-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
                 <Nav.Link href="https://1drv.ms/b/s!Av-gxGidmS0CjKR8wQWnx1nP5aSJLw?e=VNWMfC">Resume</Nav.Link>
-                <Nav.Link href="">Project</Nav.Link>
+                <Nav.Link href="">MyWork</Nav.Link>
             </Nav>
         </Container>
     </Navbar>
