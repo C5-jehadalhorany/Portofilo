@@ -1,4 +1,33 @@
 
-.navbar navbar-expand navbar-dark bg-primary {
+/* .navbar  {
     background-color: silver;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 40%;
+    grid-template-areas: a b c d;
+} */
+/* .me-auto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} */
+.home1{
+    grid-area: a;
+}
+
+
+.home2{
+    grid-area: b;
+ }
+ .home3{
+    grid-area: c;
+ }
+ .home4{
+    grid-area: d;
+ }
+
+
+
+ .d-inline-block {
+    display: inline-block!important;
+    border-radius: 100%;
 }
