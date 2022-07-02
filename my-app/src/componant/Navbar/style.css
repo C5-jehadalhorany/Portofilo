@@ -31,3 +31,7 @@
     display: inline-block!important;
     border-radius: 100%;
 }
+
+.d-inline-block {
+   margin-left: 100px
+}
