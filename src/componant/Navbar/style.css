@@ -14,7 +14,6 @@
     grid-area: a;
 }
 
-
 .home2{
     grid-area: b;
  }
@@ -30,8 +29,4 @@
  .d-inline-block {
     display: inline-block!important;
     border-radius: 100%;
-}
-
-.d-inline-block {
-   margin-left: 100px
 }
