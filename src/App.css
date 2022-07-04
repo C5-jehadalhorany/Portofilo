@@ -1,11 +1,11 @@
-*{
+* {
   margin: 0;
   padding: 0;
-  
 }
 .App {
   text-align: center;
-  background-color: #EEEEEE;
+  background-color: #eeeeee;
 }
-
-
+a:hover {
+  box-shadow: inset 150px 0 0 0 #54b3d6;
+}
