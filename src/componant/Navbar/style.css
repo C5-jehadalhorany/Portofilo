@@ -12,9 +12,7 @@
 .home1 {
   grid-area: a;
 }
-.home4 a:hover {
-  box-shadow: inset 150px 0 0 0 #54b3d6;
-}
+
 .home2 {
   grid-area: b;
 }
