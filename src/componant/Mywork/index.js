@@ -37,7 +37,7 @@ function GroupExample() {
                     <Card.Text>
                     A car rental site with international brands of cars and can get 2 cars.{' '}
                     </Card.Text>
-                    <a href="https://ecmashop.netlify.app/" className='ECMA_LINK'>CAR FOR RINT</a>
+                    <a href="https://p4-car-for-rint.netlify.app/" className='ECMA_LINK'>CAR FOR RINT</a>
                 </Card.Body>
                 <Card.Footer>
                     <small className="text-muted">The Solo Project</small>
