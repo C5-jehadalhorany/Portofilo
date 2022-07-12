@@ -22,7 +22,9 @@ function BasicExample() {
                                 can you see my linked in .
                             </Card.Text>
                             {/* <Link  to={"/https://www.linkedin.com/in/jehadal-horany/"}>link</Link> */}
+                            <Card.Footer>
                             <a href="https://www.linkedin.com/in/jehadal-horany" className='links'>link</a>
+                            </Card.Footer>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -32,10 +34,12 @@ function BasicExample() {
                         <Card.Body>
                             <Card.Title>github</Card.Title>
                             <Card.Text>
-                                can you see my github .
+                               <small>can you see my github .</small> 
                             </Card.Text>
                             {/* <Link  to={"/https://www.linkedin.com/in/jehadal-horany/"}>link</Link> */}
+                            <Card.Footer>
                             <a href="https://github.com/jehadalhorany" className='links'>link</a >
+                            </Card.Footer>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -48,7 +52,9 @@ function BasicExample() {
                                 can you see my trello .
                             </Card.Text>
                             {/* <Link  to={"/https://www.linkedin.com/in/jehadal-horany/"}>link</Link> */}
+                            <Card.Footer>
                             <a href="https://trello.com/b/jDyM91XT/project-5" className='links'>link</a>
+                            </Card.Footer>
                         </Card.Body>
                     </Card>
                 </Col>

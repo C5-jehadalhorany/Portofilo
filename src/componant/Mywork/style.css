@@ -13,6 +13,7 @@
 
 .img_mywork {
   height: 45%;
+
 }
 
 .ECMA_LINK {
@@ -23,4 +24,24 @@
   margin: 0 -0.5rem;
   padding: 0 0.5rem;
   transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+#Mywork {
+  color: rgb(144, 144, 196);
+}
+
+.links:hover {
+  transform: scale(1.5);
+  color: rgb(34, 34, 126);
+}
+
+.img_mywork:hover {
+  transform: scale(1.05);
+  /* color: rgb(34, 34, 126); */
+}
+
+.allthecontaner{
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
+
 }

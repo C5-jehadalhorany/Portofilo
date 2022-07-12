@@ -18,9 +18,9 @@ const NavbaR = () => {
             /> Portofilo</Navbar.Brand>
 
             <Nav className="me-left ">
-                <Nav.Link href="#home" className='home1'>Home</Nav.Link>
+                <Nav.Link href="/" className='home1'>Home</Nav.Link>
                 <Nav.Link href="https://1drv.ms/b/s!Av-gxGidmS0CjKR8wQWnx1nP5aSJLw?e=VNWMfC" className='home2'>Resume</Nav.Link>
-                <Nav.Link href="" className='home3'>MyWork</Nav.Link>
+                <Nav.Link href="#Mywork" className='home3'>MyWork</Nav.Link>
             </Nav>
         </Container>
     </Navbar >

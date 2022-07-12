@@ -22,8 +22,8 @@
 }
 
 .img_cv {
-  margin-top: 10px;
-  width: 50vh;
+  margin-top: 100px;
+  width: 40vh;
 }
 
 .pro_p {
@@ -32,7 +32,23 @@
 }
 
 .cv_div {
+  
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+}
+
+
+.ECMA_LINK:hover  {
+  transform: scale(1.5);
+  color:rgb(34, 34, 126);
+}
+
+
+
+@media screen and (max-width: 500px) {
+  .cv_p,.pro_p,.img_cv{
+    font-size: 15px;
+    width: 22vh;
+  }
 }
